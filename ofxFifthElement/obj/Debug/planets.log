@@ -1,0 +1,930 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (planets.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxGuiGroup.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+D:\Program Files\of_v0.9.6_vs_release\libs\openFrameworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
+D:\Program Files\of_v0.9.6_vs_release\libs\openFrameworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxButton.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
+  ADSR.cpp
+  Asymp.cpp
+  BandedWG.cpp
+  BeeThree.cpp
+  BiQuad.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\ADSR.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\ADSR.cpp(24): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\ADSR.cpp(25): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\ADSR.cpp(26): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\ADSR.cpp(125): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ADSR.cpp(135): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Asymp.h(33): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(36): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(49): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(70): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(82): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(83): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(93): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Asymp.cpp(100): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\BowTable.h(26): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\BowTable.h(115): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\BowTable.h(139): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(43): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(49): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(114): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(115): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(116): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(117): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(118): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(119): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(120): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(121): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(122): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(123): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(124): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(125): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(126): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(128): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(129): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(131): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(132): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(134): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(135): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(137): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(138): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(139): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(140): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(141): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(142): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(143): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(144): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(146): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(147): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(149): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(188): warning C4244: '=': conversion from 'int' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(202): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(223): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(250): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(256): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(279): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(281): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(318): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(323): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(333): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BandedWG.cpp(338): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BeeThree.h(79): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BeeThree.h(87): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BeeThree.h(90): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BeeThree.h(94): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(47): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(48): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(49): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(50): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(57): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(59): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(60): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BeeThree.cpp(62): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BiQuad.cpp)
+  Blit.cpp
+..\..\..\addons\ofxStk\libs\STK\src\BiQuad.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BiQuad.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BiQuad.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BlitSaw.cpp
+  BlitSquare.cpp
+  BlowBotl.cpp
+  BlowHole.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Blit.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlitSaw.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BlitSaw.h(119): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlitSaw.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\BlitSaw.cpp(76): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlitSquare.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BlitSquare.h(142): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlitSquare.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\BlitSquare.cpp(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\JetTable.h(59): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\JetTable.h(79): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\JetTable.h(101): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BlowBotl.h(107): warning C4244: '*=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BlowBotl.h(110): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(30): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(33): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(34): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(87): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(88): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(93): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(107): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(109): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowBotl.cpp(111): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Bowed.cpp
+  Brass.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\ReedTable.h(31): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\BlowHole.h(149): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(52): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(56): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(59): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(62): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(75): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(80): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(89): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(90): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(152): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(156): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(187): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(188): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(193): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(207): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\BlowHole.cpp(209): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Chorus.cpp
+  Clarinet.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp)
+  Delay.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\BowTable.h(26): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\BowTable.h(115): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\BowTable.h(139): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Bowed.h(120): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Bowed.h(123): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(48): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(52): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(55): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(56): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(63): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(64): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(65): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(66): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(67): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(68): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(70): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(72): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(101): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(102): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(104): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(116): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(133): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(139): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(155): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(160): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(163): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Bowed.cpp(165): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Brass.h(104): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Brass.h(105): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Brass.h(112): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(39): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(41): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(43): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(75): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(79): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(91): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(120): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(125): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(143): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(145): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Brass.cpp(147): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Chorus.h(114): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Chorus.h(115): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Chorus.h(133): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Chorus.h(134): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Chorus.h(158): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Chorus.h(159): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp(25): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp(26): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp(27): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Chorus.cpp(53): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\ReedTable.h(31): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Clarinet.h(109): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(40): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(41): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(43): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(45): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(46): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(101): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(102): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(107): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(121): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(123): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(125): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Clarinet.cpp(127): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  DelayA.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Delay.cpp)
+  DelayL.cpp
+  Drummer.cpp
+  Echo.cpp
+  Envelope.cpp
+  FileLoop.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\DelayA.cpp)
+  FileRead.cpp
+..\..\..\addons\ofxStk\libs\STK\src\DelayA.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\DelayA.cpp(86): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\DelayA.cpp(96): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\DelayL.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Drummer.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Drummer.cpp(91): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Drummer.cpp(119): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Drummer.cpp(120): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Drummer.cpp(138): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Echo.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Envelope.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Envelope.cpp(22): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Envelope.cpp(67): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  FileWrite.cpp
+  FileWvIn.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FileLoop.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FileLoop.cpp(101): warning C4244: 'initializing': conversion from 'unsigned long' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FileLoop.cpp(111): warning C4244: 'initializing': conversion from 'unsigned long' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FileLoop.cpp(137): warning C4244: 'initializing': conversion from 'unsigned long' to 'stk::StkFloat', possible loss of data
+  FileWvOut.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FileRead.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FileRead.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\addons\ofxStk\libs\STK\src\FileRead.cpp(800): warning C4244: '=': conversion from 'stk::SINT32' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FileRead.cpp(825): warning C4244: '=': conversion from 'stk::FLOAT64' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FileRead.cpp(838): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Fir.cpp
+  Flute.cpp
+  FM.cpp
+  FMVoices.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(194): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(253): warning C4309: '=': truncation of constant value
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(219): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(347): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(415): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(559): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\addons\ofxStk\libs\STK\src\FileWrite.cpp(572): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FileWvIn.cpp)
+  FormSwep.cpp
+..\..\..\addons\ofxStk\libs\STK\src\FileWvIn.cpp(136): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FileWvIn.cpp(149): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FileWvIn.cpp(162): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FileWvOut.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Fir.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\JetTable.h(59): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\JetTable.h(79): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\JetTable.h(101): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FM.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(43): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(44): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(47): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(50): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(51): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(52): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(81): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(125): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(126): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(131): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(148): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(150): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Flute.cpp(152): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FM.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FM.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FM.cpp(62): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FM.cpp(68): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FM.cpp(71): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FM.cpp(74): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FM.cpp(162): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  FreeVerb.cpp
+  Granulate.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+  Guitar.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FMVoices.h(86): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FMVoices.h(88): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FMVoices.h(89): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FMVoices.h(90): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FMVoices.h(91): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FMVoices.h(102): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(54): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(55): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(56): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(57): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(64): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(66): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(67): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(91): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(99): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(103): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(107): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(110): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(113): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FMVoices.cpp(147): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FormSwep.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FormSwep.cpp(29): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FormSwep.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FormSwep.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FormSwep.cpp(133): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  HevyMetl.cpp
+  Iir.cpp
+  JCRev.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FreeVerb.h(214): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\FreeVerb.h(223): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(40): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(137): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(144): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(145): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(161): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\FreeVerb.cpp(162): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(81): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(83): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(113): warning C4244: '=': conversion from 'double' to 'std::size_t', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(137): warning C4244: '=': conversion from 'double' to 'std::size_t', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(143): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(150): warning C4244: '=': conversion from 'unsigned long' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(173): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(183): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(192): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(197): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(202): warning C4244: '=': conversion from 'stk::StkFloat' to 'unsigned long', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Granulate.cpp(266): warning C4244: 'argument': conversion from 'stk::StkFloat' to 'std::size_t', possible loss of data
+  LentPitShift.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp)
+  Mandolin.cpp
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(51): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(52): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(53): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(91): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(189): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(207): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(227): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(231): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(233): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Guitar.cpp(235): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Iir.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(74): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(75): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(76): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(77): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(78): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(84): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(87): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\HevyMetl.h(93): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(42): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(43): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(44): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(51): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(52): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(53): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\HevyMetl.cpp(54): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\JCRev.h(156): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\JCRev.h(160): warning C4244: 'return': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp(66): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp(67): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\JCRev.cpp(94): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Mesh2D.cpp
+  Messager.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\LentPitShift.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\LentPitShift.h(187): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\LentPitShift.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\LentPitShift.h(188): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\LentPitShift.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\LentPitShift.h(194): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\LentPitShift.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\LentPitShift.h(195): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\LentPitShift.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\LentPitShift.cpp(20): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Mandolin.h(109): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(56): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(62): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(167): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(171): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(172): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Mandolin.cpp(175): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  MidiFileIn.cpp
+  Modal.cpp
+  ModalBar.cpp
+  Modulate.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Mesh2D.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Messager.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Mesh2D.cpp(42): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Mesh2D.cpp(46): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Mesh2D.cpp(51): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Mesh2D.cpp(356): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Moog.cpp
+  Noise.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\MidiFileIn.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Modal.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Modal.h(117): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Modal.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Modal.cpp(48): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Modal.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Modal.cpp(130): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Modal.cpp(154): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Modal.h(117): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(42): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(61): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(62): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Modulate.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(77): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(79): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(80): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(82): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(83): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(132): warning C4838: conversion from 'double' to 'stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(132): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Modulate.cpp(20): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(145): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Modulate.cpp(25): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Modulate.cpp(26): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(167): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\ModalBar.cpp(171): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  NRev.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp)
+  OnePole.cpp
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Moog.h(51): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Moog.h(84): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Moog.h(93): warning C4244: 'return': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(32): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(34): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(35): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(37): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(38): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(39): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(75): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(79): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(80): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(94): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(96): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Moog.cpp(98): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Noise.cpp)
+  OneZero.cpp
+  PercFlut.cpp
+  Phonemes.cpp
+  PitShift.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\NRev.h(131): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\NRev.h(150): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp(45): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp(54): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp(55): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\NRev.cpp(77): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Plucked.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\OnePole.cpp)
+  PoleZero.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\OneZero.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\OneZero.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\OneZero.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Phonemes.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Phonemes.cpp(69): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Phonemes.cpp(69): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Phonemes.cpp(207): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Phonemes.cpp(207): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(75): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(76): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(77): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(78): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(79): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(86): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(88): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PercFlut.h(94): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(42): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(43): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(44): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(50): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(51): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(52): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(53): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(56): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\PercFlut.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PitShift.h(90): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PitShift.h(91): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PitShift.h(99): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp(42): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp(45): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\PitShift.cpp(49): warning C4244: '=': conversion from 'unsigned long' to 'stk::StkFloat', possible loss of data
+  PRCRev.cpp
+  Resonate.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Plucked.h(84): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp(64): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp(65): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp(75): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp(76): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp(79): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Plucked.cpp(95): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PoleZero.cpp)
+  Rhodey.cpp
+  Sampler.cpp
+  Saxofony.cpp
+  Shakers.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PRCRev.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\PRCRev.h(130): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\PRCRev.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\PRCRev.cpp(55): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\PRCRev.cpp(77): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\PRCRev.cpp(78): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Simple.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Resonate.cpp)
+  SineWave.cpp
+..\..\..\addons\ofxStk\libs\STK\src\Resonate.cpp(28): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Resonate.cpp(96): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Resonate.cpp(98): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Resonate.cpp(100): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Sampler.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Rhodey.h(88): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Rhodey.h(89): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Rhodey.h(93): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Rhodey.h(95): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp(55): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp(56): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp(57): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Rhodey.cpp(76): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\ReedTable.h(31): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(152): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(193): warning C4244: 'return': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(196): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(197): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(223): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Saxofony.h(127): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(55): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(57): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(60): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(62): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(63): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(64): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(91): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(92): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(107): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(136): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(137): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(142): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(156): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(158): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(160): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(162): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Saxofony.cpp(168): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(237): warning C4244: '-=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(267): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Shakers.h(268): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(57): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(63): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(67): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(68): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(73): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(73): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(77): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(78): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(83): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(83): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(87): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(89): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(90): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(93): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(93): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(97): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(103): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(103): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(104): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(104): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(107): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(108): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(113): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(113): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(114): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(114): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(117): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(118): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(123): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(123): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(127): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(128): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(133): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(133): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(134): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(134): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(137): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(138): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(140): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(142): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(142): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(143): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(143): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(147): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(148): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(152): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(152): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(156): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(157): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(161): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(161): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(165): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(166): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(171): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(171): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(178): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(179): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(184): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(184): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(188): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(189): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(194): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(194): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(198): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(199): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(200): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(204): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(204): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(205): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(205): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(209): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(209): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(210): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(210): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(213): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(213): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(214): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(214): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(217): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(217): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(218): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(218): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(221): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(221): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(222): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(222): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(225): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(225): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(226): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(226): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(229): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(229): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(230): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(230): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(233): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(234): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(239): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(239): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(243): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(244): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(249): warning C4838: conversion from 'double' to 'const stk::StkFloat' requires a narrowing conversion
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(249): warning C4305: 'initializing': truncation from 'double' to 'const stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(279): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(298): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(318): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(319): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(338): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(339): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(358): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(359): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(378): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(397): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(416): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(435): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(454): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(455): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(474): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(475): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(496): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(565): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(586): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(609): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(628): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(648): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(671): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(695): warning C4244: '=': conversion from 'int' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(700): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(705): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(708): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Shakers.cpp(713): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  SingWave.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Simple.cpp)
+  Sitar.cpp
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Simple.h(91): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Simple.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Simple.cpp(71): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Simple.cpp(86): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Simple.cpp(90): warning C4244: '/=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\SineWave.cpp)
+  Skini.cpp
+  Sphere.cpp
+  StifKarp.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\SingWave.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\SingWave.cpp(26): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\SingWave.cpp(29): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\SingWave.cpp(30): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+  Stk.cpp
+  TapDelay.cpp
+  TubeBell.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Sitar.h(87): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Sitar.h(89): warning C4305: '*=': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(33): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(37): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(38): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(40): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(64): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(66): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(67): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Sitar.cpp(79): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Skini.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Sphere.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Skini.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(41): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(42): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(44): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(45): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(46): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(77): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(78): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(82): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(90): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(91): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(92): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(99): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(116): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(122): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(136): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(154): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(170): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\StifKarp.cpp(172): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  Twang.cpp
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Stk.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Stk.cpp(334): warning C4018: '<': signed/unsigned mismatch
+..\..\..\addons\ofxStk\libs\STK\src\Stk.cpp(363): warning C4018: '<': signed/unsigned mismatch
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TapDelay.cpp)
+  TwoPole.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\TubeBell.h(85): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\TubeBell.h(86): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\TubeBell.h(90): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\TubeBell.h(92): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(45): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(46): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(47): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(48): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(55): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(56): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(57): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\TubeBell.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+  TwoZero.cpp
+  Voicer.cpp
+  VoicForm.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Twang.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Twang.cpp(40): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Twang.cpp(41): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Twang.cpp(77): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Twang.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Twang.cpp(89): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+  Whistle.cpp
+  Wurley.cpp
+  main.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TwoPole.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\TwoZero.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\TwoZero.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\TwoZero.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\TwoZero.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(159): warning C4244: 'initializing': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(174): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(176): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(187): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Voicer.cpp(189): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(40): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(44): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(46): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(47): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(49): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(89): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(90): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(91): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(92): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(127): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(141): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(142): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(148): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(156): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(160): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(164): warning C4305: '=': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(166): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(167): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(168): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(169): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(174): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(176): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\VoicForm.cpp(179): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+  ofApp.cpp
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(42): warning C4244: 'argument': conversion from 'const int' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(46): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(48): warning C4244: 'argument': conversion from 'const int' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(52): warning C4244: 'argument': conversion from 'const int' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(120): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(125): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(153): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(159): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(166): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(182): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(183): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(185): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(186): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(201): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(202): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(209): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(216): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(218): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(234): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(240): warning C4244: 'argument': conversion from 'double' to 'stk::StkFloat', possible loss of data
+..\..\..\addons\ofxStk\libs\STK\src\Whistle.cpp(242): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\Stk.h(571): warning C4305: 'initializing': truncation from 'double' to 'stk::StkFloat' (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(68): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+d:\program files\of_v0.9.6_vs_release\addons\ofxstk\libs\stk\include\FM.h(71): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Wurley.h(88): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Wurley.h(89): warning C4244: '+=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Wurley.h(93): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+D:\Program Files\of_v0.9.6_vs_release\addons\ofxStk\libs\STK\include\Wurley.h(95): warning C4244: '=': conversion from 'double' to 'stk::StkFloat', possible loss of data (compiling source file ..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp)
+..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp(55): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp(56): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp(57): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+..\..\..\addons\ofxStk\libs\STK\src\Wurley.cpp(58): warning C4305: 'argument': truncation from 'double' to 'stk::StkFloat'
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\program files\of_v0.9.6_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+LINK : fatal error LNK1104: cannot open file 'D:\Program Files\of_v0.9.6_vs_release\libs\openFrameworksCompiled\lib\vs\Win32\openframeworksLib_debug.lib'
