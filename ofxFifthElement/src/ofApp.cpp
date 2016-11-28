@@ -65,23 +65,52 @@ void ofApp::setup(){
     
     // Initialize orbit rotation angles to zero
     sunRotationAngle = 0;
-
+	
+	miss = 1;
 	musicTimer = 0;
-	colordelay = 70;
-	fireQueue.push(500);
-	fireQueue.push(600);
+	colordelay = 50;
+	fireQueue.push(374);
+	fireQueue.push(625);
+	fireQueue.push(1366);
+	fireQueue.push(1714);
+	fireQueue.push(2083);
+	fireQueue.push(2410);
+	fireQueue.push(3054);
+	fireQueue.push(3645);
 	fireTimer = fireQueue.front();
 
-	waterQueue.push(700);
-	waterQueue.push(800);
+	waterQueue.push(470);
+	waterQueue.push(1178);
+	waterQueue.push(1415);
+	waterQueue.push(2142);
+	waterQueue.push(2300);
+	waterQueue.push(2506);
+	waterQueue.push(2744);
+	waterQueue.push(3163);
+	waterQueue.push(3232);
+	waterQueue.push(3541);
 	waterTimer = waterQueue.front();
 
-	earthQueue.push(900);
-	earthQueue.push(1000);
+	earthQueue.push(815);
+	earthQueue.push(878);
+	earthQueue.push(1062);
+	earthQueue.push(1597);
+	earthQueue.push(1808);
+	earthQueue.push(2216);
+	earthQueue.push(2584);
+	earthQueue.push(2629);
+	earthQueue.push(2801);
+	earthQueue.push(2924);
 	earthTimer = earthQueue.front();
 
-	windQueue.push(1100);
-	windQueue.push(1200);
+	windQueue.push(563);
+	windQueue.push(941);
+	windQueue.push(1669);
+	windQueue.push(1899);
+	windQueue.push(2442);
+	windQueue.push(2860);
+	windQueue.push(2986);
+	windQueue.push(3433);
 	windTimer = windQueue.front();
 
 	fireState = 0;
@@ -103,7 +132,7 @@ void ofApp::setup(){
 	shootWater = 0;
 	shootFire = 0;
 	shootEarth = 0;
-	volocity =12;
+	volocity =24;
 	
 
 }
@@ -135,7 +164,7 @@ void ofApp::draw(){
 	instructions.drawString("Press space to start/stop.  Fire for chorus. Wind for reverb", 10, 200);
 	instructions.drawString("Water/Earth to volume up/down.", 10, 212);
 	instructions.drawString("Fire for chorus. Wind for reverb", 10, 224);
-	ofDrawBitmapString("score: " + ofToString(score), 10, 236);
+	ofDrawBitmapString("Score: " + ofToString(score), 10, 248);
 	//sun.setGlobalPosition(ofGetWindowWidth()*0.5, ofGetWindowHeight()*0.5,0);
 	//ofPushMatrix();
 	//	ofRotateZ(sunRotationAngle);
@@ -181,6 +210,12 @@ void ofApp::draw(){
 					earthState = 0;
 
 					if (musicTimer > fireTimer) {
+						//if (miss = 1) {
+						//	score--;
+						//}
+						//else {
+						//	miss = 1;
+						//}
 						if (!fireQueue.empty()) {
 							fireQueue.pop();
 							if (!fireQueue.empty()) {
@@ -190,6 +225,12 @@ void ofApp::draw(){
 						}
 					}
 					if (musicTimer > waterTimer) {
+						//if (miss = 1) {
+						//	score--;
+						//}
+						//else {
+						//	miss = 1;
+						//}
 						if (!waterQueue.empty()) {
 							waterQueue.pop();
 							if (!waterQueue.empty()) {
@@ -199,6 +240,12 @@ void ofApp::draw(){
 						}
 					}
 					if (musicTimer > earthTimer) {
+						//if (miss = 1) {
+						//	score--;
+						//}
+						//else {
+						//	miss = 1;
+						//}
 						if (!earthQueue.empty()) {
 							earthQueue.pop();
 							if (!earthQueue.empty()) {
@@ -208,6 +255,12 @@ void ofApp::draw(){
 						}
 					}
 					if (musicTimer > windTimer) {
+						//if (miss = 1) {
+						//	score--;
+						//}
+						//else {
+						//	miss = 1;
+						//}
 						if (!windQueue.empty()) {
 							windQueue.pop();
 							if (!windQueue.empty()) {
@@ -277,13 +330,29 @@ void ofApp::draw(){
 			ofPopMatrix();
 
 			if (ofDist(moonEarth.getX(), moonEarth.getY(), sun.getX(), sun.getY()) < 132) {
+				if (miss = 1) {
+					miss = 0;
+				}
 				if (earthState == 1) {
 					score += 1;
+					if (chorusOn == 1) {
+						chorusOn = 0;
+					}
+					if (reverbOn == 0) {
+						reverbOn = 1;
+					}
 					ofLog() << "Score up " << score << endl;
+					miss = 0;
 				}
 				else {
 					score -= 1;
 					ofLog() << "Score down " << score << endl;
+					if (chorusOn == 0) {
+						chorusOn = 1;
+					}
+					if (reverbOn == 1) {
+						reverbOn = 0;
+					}
 				}
 				shootEarth = 0;
 				//if (volume >=0 ) {
@@ -314,13 +383,29 @@ void ofApp::draw(){
 
 			//collision
 			if (ofDist(moonWater.getX(), moonWater.getY(), sun.getX(), sun.getY()) < 132) {
+				if (miss = 1) {
+					miss = 0;
+				}
 				if (waterState == 1) {
+					if (chorusOn == 1) {
+						chorusOn = 0;
+					}
+					if (reverbOn == 0) {
+						reverbOn = 1;
+					}
 					score += 1;
 					ofLog() << "Score up " << score << endl;
+					miss = 0;
 				}
 				else {
 					score -= 1;
 					ofLog() << "Score down " << score << endl;
+					if (chorusOn == 0) {
+						chorusOn = 1;
+					}
+					if (reverbOn == 1) {
+						reverbOn = 0;
+					}
 				}
 
 				shootWater = 0;
@@ -353,25 +438,42 @@ void ofApp::draw(){
 
 
 			if (ofDist(moonFire.getX(), moonFire.getY(), sun.getX(), sun.getY()) < 132) {
+				if (miss = 1) {
+					miss = 0;
+				}
 				if (fireState == 1) {
+					if (chorusOn == 1) {
+						chorusOn = 0;
+					}
+					if (reverbOn == 0) {
+						reverbOn = 1;
+					}
 					score += 1;
+					miss = 0;
 					ofLog() << "Score up " << score << endl;
 				}
 				else {
 					score -= 1;
 					ofLog() << "Score down " << score << endl;
+					if (chorusOn == 0) {
+						chorusOn = 1;
+					}
+					if (reverbOn == 1) {
+						reverbOn = 0;
+					}
+
 				}
 
 				shootFire = 0;
-				if (chorusOn == false) {
+				//if (chorusOn == false) {
 
-					//chorusOn = true;
-					chorusOn = true;
-				}
-				else {
-					//chorusOn = false;
-					chorusOn = false;
-				}
+				//	//chorusOn = true;
+				//	chorusOn = true;
+				//}
+				//else {
+				//	//chorusOn = false;
+				//	chorusOn = false;
+				//}
 			}
 
 		}
@@ -398,23 +500,41 @@ void ofApp::draw(){
 			ofPopStyle(); // Back to initial style state
 			ofPopMatrix();
 			if (moonWind.getY()< 120) {
+				if (miss = 1) {
+					miss = 0;
+				}
 				if (windState == 1) {
+					if (chorusOn == 1) {
+						chorusOn = 0;
+					}
+					if (reverbOn == 0) {
+						reverbOn = 1;
+					}
+
 					score += 1;
+					miss = 0;
 					ofLog() << "Score up " << score << endl;
 				}
 				else {
 					score -= 1;
 					ofLog() << "Score down " << score << endl;
-				}
-				if (reverbOn == false) {
+					if (chorusOn == 0) {
+						chorusOn = 1;
+					}
+					if (reverbOn == 1) {
+						reverbOn = 0;
+					}
 
-					//chorusOn = true;
-					reverbOn = true;
 				}
-				else {
-					//chorusOn = false;
-					reverbOn = false;
-				}
+				//if (reverbOn == false) {
+
+				//	//chorusOn = true;
+				//	reverbOn = true;
+				//}
+				//else {
+				//	//chorusOn = false;
+				//	reverbOn = false;
+				//}
 				shootWind = 0;
 			}
 		}
