@@ -45,7 +45,27 @@ public:
     
     float sunRotationAngle;
     float earthRotationAngle;
-    
+	queue<int> fireQueue;
+	queue<int> waterQueue;
+	queue<int> earthQueue;
+	queue<int> windQueue;
+	int musicTimer;
+	int fireTimer;
+	int waterTimer;
+	int earthTimer;
+	int windTimer;
+	int colordelay;
+
+	int fireState;
+	int waterState;
+	int windState;
+	int earthState;
+	
+	int score;
+	int miss;
+
+
+
 	int shoot;
 	int shootEarth;
 	int shootFire;

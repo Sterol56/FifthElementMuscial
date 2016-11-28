@@ -65,6 +65,33 @@ void ofApp::setup(){
     
     // Initialize orbit rotation angles to zero
     sunRotationAngle = 0;
+
+	musicTimer = 0;
+	colordelay = 70;
+	fireQueue.push(500);
+	fireQueue.push(600);
+	fireTimer = fireQueue.front();
+
+	waterQueue.push(700);
+	waterQueue.push(800);
+	waterTimer = waterQueue.front();
+
+	earthQueue.push(900);
+	earthQueue.push(1000);
+	earthTimer = earthQueue.front();
+
+	windQueue.push(1100);
+	windQueue.push(1200);
+	windTimer = windQueue.front();
+
+	fireState = 0;
+	waterState = 0;
+	windState = 0;
+	earthState = 0;
+
+	score = 0;
+
+
     earthOrbitAngle = 0;
     moonOrbitAngle = 0;
 	fireMove = 0;
@@ -77,6 +104,7 @@ void ofApp::setup(){
 	shootFire = 0;
 	shootEarth = 0;
 	volocity =12;
+	
 
 }
 
@@ -94,6 +122,9 @@ void ofApp::update(){
 	waterMove += volocity;
 	windMove += volocity;
 	earthMove += volocity;
+	if (shouldPlayAudio) {
+		musicTimer++;
+	}
 
     
 }
@@ -104,6 +135,7 @@ void ofApp::draw(){
 	instructions.drawString("Press space to start/stop.  Fire for chorus. Wind for reverb", 10, 200);
 	instructions.drawString("Water/Earth to volume up/down.", 10, 212);
 	instructions.drawString("Fire for chorus. Wind for reverb", 10, 224);
+	ofDrawBitmapString("score: " + ofToString(score), 10, 236);
 	//sun.setGlobalPosition(ofGetWindowWidth()*0.5, ofGetWindowHeight()*0.5,0);
 	//ofPushMatrix();
 	//	ofRotateZ(sunRotationAngle);
@@ -128,9 +160,68 @@ void ofApp::draw(){
             
             ofPushStyle(); // Save initial style state
                 // Set the color of the sun
-                ofSetColor(200, 150, 0);
+				if (musicTimer >= fireTimer - colordelay && musicTimer <= fireTimer) {
+					fireState = 1;
+					ofSetColor(256, 0, 0);
+				}
+				else if (musicTimer >= waterTimer - colordelay && musicTimer <= waterTimer) {
+					waterState = 1;
+
+					ofSetColor(0, 0, 256);
+				}else if (musicTimer >=earthTimer - colordelay && musicTimer <= earthTimer) {
+					earthState = 1;
+					ofSetColor(0, 255, 0);
+				}else if (musicTimer >= windTimer - colordelay && musicTimer <= windTimer) {
+					windState = 1;
+					ofSetColor(0, 256, 255);
+				}else  {
+					fireState = 0;
+					waterState = 0;
+					windState = 0;
+					earthState = 0;
+
+					if (musicTimer > fireTimer) {
+						if (!fireQueue.empty()) {
+							fireQueue.pop();
+							if (!fireQueue.empty()) {
+
+								fireTimer = fireQueue.front();
+							}
+						}
+					}
+					if (musicTimer > waterTimer) {
+						if (!waterQueue.empty()) {
+							waterQueue.pop();
+							if (!waterQueue.empty()) {
+
+								waterTimer = waterQueue.front();
+							}
+						}
+					}
+					if (musicTimer > earthTimer) {
+						if (!earthQueue.empty()) {
+							earthQueue.pop();
+							if (!earthQueue.empty()) {
+
+								earthTimer = earthQueue.front();
+							}
+						}
+					}
+					if (musicTimer > windTimer) {
+						if (!windQueue.empty()) {
+							windQueue.pop();
+							if (!windQueue.empty()) {
+
+								windTimer = windQueue.front();
+							}
+						}
+					}
+					ofSetColor(200, 150, 0);
+				}
+
                 // Draw the sun (wireframe so we can see rotation)
                 sun.drawWireframe();
+
             ofPopStyle(); // Back to initial style state
         
         ofPopMatrix(); // Back to center state
@@ -186,11 +277,18 @@ void ofApp::draw(){
 			ofPopMatrix();
 
 			if (ofDist(moonEarth.getX(), moonEarth.getY(), sun.getX(), sun.getY()) < 132) {
-
-				shootEarth = 0;
-				if (volume >=0 ) {
-					volume -= 0.2;
+				if (earthState == 1) {
+					score += 1;
+					ofLog() << "Score up " << score << endl;
 				}
+				else {
+					score -= 1;
+					ofLog() << "Score down " << score << endl;
+				}
+				shootEarth = 0;
+				//if (volume >=0 ) {
+				//	volume -= 0.2;
+				//}
 			}
 
 		}
@@ -216,10 +314,19 @@ void ofApp::draw(){
 
 			//collision
 			if (ofDist(moonWater.getX(), moonWater.getY(), sun.getX(), sun.getY()) < 132) {
-				shootWater = 0;
-				if (volume <= 1) {
-					volume += 0.2;
+				if (waterState == 1) {
+					score += 1;
+					ofLog() << "Score up " << score << endl;
 				}
+				else {
+					score -= 1;
+					ofLog() << "Score down " << score << endl;
+				}
+
+				shootWater = 0;
+				//if (volume <= 1) {
+				//	volume += 0.2;
+				//}
 			}
 
 
@@ -246,6 +353,15 @@ void ofApp::draw(){
 
 
 			if (ofDist(moonFire.getX(), moonFire.getY(), sun.getX(), sun.getY()) < 132) {
+				if (fireState == 1) {
+					score += 1;
+					ofLog() << "Score up " << score << endl;
+				}
+				else {
+					score -= 1;
+					ofLog() << "Score down " << score << endl;
+				}
+
 				shootFire = 0;
 				if (chorusOn == false) {
 
@@ -282,6 +398,14 @@ void ofApp::draw(){
 			ofPopStyle(); // Back to initial style state
 			ofPopMatrix();
 			if (moonWind.getY()< 120) {
+				if (windState == 1) {
+					score += 1;
+					ofLog() << "Score up " << score << endl;
+				}
+				else {
+					score -= 1;
+					ofLog() << "Score down " << score << endl;
+				}
 				if (reverbOn == false) {
 
 					//chorusOn = true;
@@ -321,6 +445,7 @@ void ofApp::keyPressed(int key){
 	}
 	if (key == ' ') {
 		shouldPlayAudio = !shouldPlayAudio;
+		ofLog() << "timer " << musicTimer << endl;
 	}
 	
 }
