@@ -28,12 +28,20 @@ public:
 
 
     // OpenFrameworks has many handy graphical primitive objects
-    ofSpherePrimitive sun;
-    ofSpherePrimitive earth;
-	ofSpherePrimitive fire;
-	ofSpherePrimitive wind;
-	ofSpherePrimitive water;
-	ofSpherePrimitive love;
+	ofIcoSpherePrimitive sun;
+	ofIcoSpherePrimitive earth;
+	ofIcoSpherePrimitive fire;
+	ofIcoSpherePrimitive wind;
+	ofIcoSpherePrimitive water;
+	ofIcoSpherePrimitive love;
+
+	ofImage background;
+	ofImage suckGamePic;
+	ofImage winPic;
+
+	//resolution levels
+	int reso;
+	int resoSun;
 
 	ofSpherePrimitive moon;
     ofSpherePrimitive moonFire;
@@ -63,7 +71,11 @@ public:
 	
 	int score;
 	int miss;
-
+	int hits;
+	int maxHits;
+	int endGame;
+	int increase;
+	int topHits;
 
 
 	int shoot;
@@ -103,5 +115,6 @@ public:
     stk::OneZero filter;
     
     ofTrueTypeFont instructions;
+	ofTrueTypeFont endInfo;
     bool shouldPlayAudio;
 };
